@@ -4,4 +4,4 @@ Este repositório contém diversos projetos e desafios em Python, organizados da
 
 - **[Desafios](Desafios)**: Resoluções de desafios de programação em Python.
 - **[Aproximações Numéricas](Cálculos computacionais)**: Códigos que implementam métodos de aproximações numéricas.
-- **[Simulações](simulacoes/README.md)**: Scripts de simulações diversas.
+- **[Simulações](Simulações)**: Scripts de simulações diversas.
