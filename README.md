@@ -23,6 +23,6 @@ Bem-vindo ao meu repositório! Aqui você encontrará diferentes projetos e desa
 
 <img src="Imagens/Simulacoes.png" alt="Desafios" height= "200" width="300"/>
 
-Simulações são usadas para modelar fenômenos reais e observar seu comportamento sob diferentes condições.
+- Simulações são usadas para modelar fenômenos reais e observar seu comportamento sob diferentes condições.
 
 - Acesse a pasta de cáclulos computacionais clicando aqui: [Explore as Simulações](Simulações)
