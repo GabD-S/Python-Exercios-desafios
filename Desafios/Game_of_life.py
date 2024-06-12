@@ -1,5 +1,6 @@
 import numpi as np
 
+
 def create_grid(rows_cols, P):
     return np.random.choice([0, 1], size=(rows_cols, rows_cols), p=[1-P, P])
 
@@ -14,8 +15,8 @@ def update_grid(grid):
             neighbours += np.roll(np.roll(grid, i, axis=0), j, axis=1)
             # Smart trick to count neighbours we roll the grid summing values over a point
 
-    new_grid = np.where((grid == 1) & ((neighbours < 2) | (neighbours > 3)), 0, grid)
+    new_grid = np.where((grid == 1) & (
+        (neighbours < 2) | (neighbours > 3)), 0, grid)
     new_grid = np.where((grid == 0) & (neighbours == 3), 1, new_grid)
     # This makes, so we update our grid according to Conway's law
     return new_grid
-  

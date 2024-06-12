@@ -4,11 +4,14 @@ b = False
 simenao = []
 contador = 0
 todos = []
+
+
 def geradorfun(x):
     funca = []
     for a in x:
         funca.append(math.cos(a))
     return funca
+
 
 listay = geradorfun(listax)
 
@@ -18,7 +21,7 @@ for c in listay:
         simenao.pop()
         simenao.append(1)
         b = True
-    elif c>0 and b == True:
+    elif c > 0 and b == True:
         simenao.pop()
         simenao.append(1)
         b = False
@@ -29,7 +32,7 @@ for d in range(len(simenao)):
 
 raizes = []
 
-for u in range(0,len(todos),2):
+for u in range(0, len(todos), 2):
     primeirovalor = todos[u]
     segundovalor = todos[u+1]
     media = (primeirovalor + segundovalor)/2
