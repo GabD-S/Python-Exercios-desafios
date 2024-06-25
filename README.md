@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório! Aqui você encontrará diferentes projetos e desafios que trabalhei em Python.
 
-## Desafios
+## Desafios  🎯
 
 <img src="Imagens/Desafios.png" alt="Desafios" height= "200" width="300"/>
 
@@ -10,7 +10,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará diferentes projetos e desa
 
 - Você pode acessar os desafios clicando aqui: [Explore os Desafios](Desafios)
 
-## Cálculos computacionais
+## Cálculos computacionais 🔢
 
 <img src="Imagens/Calc.png" alt="Desafios" height= "200" width="300"/>
 
@@ -19,7 +19,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará diferentes projetos e desa
 
 - Acesse a pasta de cáclulos computacionais clicando aqui: [Cálculos computacionais](Cálculos_numerico)
 
-## Simulações
+## Simulações 🌐
 
 <img src="Imagens/Simulacoes.png" alt="Desafios" height= "200" width="300"/>
 
