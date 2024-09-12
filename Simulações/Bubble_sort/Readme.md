@@ -35,7 +35,7 @@ Para facilitar o entendimento visual, abaixo está um gráfico gerado que demons
 
 👉 Coloque seu GIF animado aqui:
 
-![Espaço para o GIF](Simulações/Bubble_sort/sorting_animation.gif)
+![Espaço para o GIF](sorting_animation.gif)
 
 ---
 
