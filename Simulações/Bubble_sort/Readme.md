@@ -27,7 +27,7 @@ Aqui está um algoritmo que desenvolvi para demonstrar o funcionamento do Bubble
 
 Para facilitar o entendimento visual, abaixo está um gráfico gerado que demonstra o funcionamento do algoritmo:
 
-![Espaço para o Gráfico]()
+![Espaço para o Gráfico](imag.png)
 
 ---
 
@@ -35,7 +35,7 @@ Para facilitar o entendimento visual, abaixo está um gráfico gerado que demons
 
 👉 Coloque seu GIF animado aqui:
 
-![Espaço para o GIF]()
+![Espaço para o GIF](Simulações/Bubble_sort/sorting_animation.gif)
 
 ---
 
