@@ -1,16 +1,16 @@
 # Bubble Sort 🎉
 
 **Feito por: Gabriel_S**  
-![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Jupyter Badge](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Loading Badge](https://cdn.dribbble.com/users/108183/screenshots/2302690/loading.gif)  
+![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter Badge](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## O que é o Bubble Sort? 🧠💡
 
-O **Bubble Sort** é um dos algoritmos de ordenação mais simples! Ele compara dois elementos consecutivos de uma lista e troca eles de lugar se estiverem na ordem errada. 🧐 Isso é repetido várias vezes até que todos os elementos estejam no lugar certo. 🏆✨
+O **Bubble Sort** é um dos algoritmos de ordenação mais simples! Ele compara dois elementos consecutivos de uma lista e troca eles de lugar se estiverem na ordem errada. 🧐 Isso é repetido várias vezes até que todos os elementos estejam na ordem correta. 🏆✨
 
-Aqui está um algoritmo que desenvolvi para demonstrar o funcionamento do Bubble Sort e criei um gráfico para ilustrar cada passo. 📊
+Eu criei um algoritmo para demonstrar o funcionamento do Bubble Sort e, além disso, gerei um gráfico para ilustrar cada passo da ordenação visualmente. 📊
 
 ---
 
@@ -23,20 +23,18 @@ Aqui está um algoritmo que desenvolvi para demonstrar o funcionamento do Bubble
 
 ---
 
-### Gráfico do Bubble Sort 📊✨
+### Gráficos do Bubble Sort 📊✨
 
-Para facilitar o entendimento visual, abaixo está um gráfico gerado que demonstra o funcionamento do algoritmo:
+#### Antes da ordenação:
 
-![Espaço para o Gráfico](imag.png)
+Este gráfico mostra a lista inicial, com os elementos fora de ordem. Cada barra representa um valor, e o algoritmo começa comparando e trocando os elementos conforme necessário.
+
+![Gráfico Inicial](imag.png)
 
 ---
 
 ### Veja a animação do Bubble Sort em ação! 🎬🔄
 
-👉 Coloque seu GIF animado aqui:
-
 ![Espaço para o GIF](sorting_animation.gif)
 
 ---
-
-🎉 Espero que você tenha gostado dessa explicação cheia de emojis e diversão! 😄✨
