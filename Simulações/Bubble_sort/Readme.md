@@ -1,4 +1,4 @@
-# 🐍✨ Bubble Sort 🎉
+# Bubble Sort 🎉
 
 **Feito por: Gabriel_S**  
 ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
